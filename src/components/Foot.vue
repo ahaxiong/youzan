@@ -8,7 +8,7 @@
         </a>
       </li>
       <li>
-        <a href="https://maijia.youzan.com/mars/category">
+        <a href="">
           <i class="icon-category"></i>
           <div>分类</div>
         </a>
